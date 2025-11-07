@@ -1,7 +1,7 @@
 const container = document.querySelector('.container');
 
 
-createSquares(5, 5);
+createSquares(16, 16);
 
 function createSquares(columnSquares, rowSquares) {
 
